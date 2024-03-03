@@ -19,6 +19,7 @@ This is a Power BI project for a Telecom company.This project is to analyze and 
 ## Skills/concepts demonstrated
 The following Power BI features were incorporated:
 -	quick measures,
+-	data transformation,
 -	filters,
 -	slicers,
 -	gauge,line charts,bar charts and cards.
@@ -30,4 +31,22 @@ The report comprises of 3 pages
 2.	Churn dashboard
 3.	Customer risk analysis
 
-You can interact with the report [here](https://app.fabric.microsoft.com/groups/me/reports/9d196471-6c0b-418f-b8af-2153aff0442f/ReportSection57e2f73ce40be00019dc?experience=power-bi)
+You can interact with the **Report** [here](https://app.fabric.microsoft.com/groups/me/reports/9d196471-6c0b-418f-b8af-2153aff0442f/ReportSection57e2f73ce40be00019dc?experience=power-bi)
+
+
+## Analysis:
+
+![](welcomedash.png)   
+
+
+
+![](churndash.png)
+
+
+
+![](custrisdash.png)
+
+
+
+
+## Conclusion and Recommendation
